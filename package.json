@@ -1,0 +1,20 @@
+{
+  "name": "nomad_ts_challenge",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldbay/Nomad_TS_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coldbay/Nomad_TS_challenge/issues"
+  },
+  "homepage": "https://github.com/coldbay/Nomad_TS_challenge#readme"
+}
